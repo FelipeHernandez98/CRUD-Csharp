@@ -1,0 +1,10 @@
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\bin\Debug\PracticaCsharp.exe.config
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\bin\Debug\PracticaCsharp.exe
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\bin\Debug\PracticaCsharp.pdb
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.csproj.AssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.Properties.Resources.resources
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.Vistas.Usuarios.resources
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.csproj.GenerateResource.cache
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.csproj.CoreCompileInputs.cache
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.exe
+C:\Users\SISTEMAS\source\repos\PracticaCsharp\PracticaCsharp\obj\Debug\PracticaCsharp.pdb
